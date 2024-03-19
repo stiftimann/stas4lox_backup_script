@@ -1,0 +1,3 @@
+#!/bin/bash
+# MAILTO=
+/opt/loxberry/webfrontend/legacy/Influx_DB_Save.sh
